@@ -27,10 +27,11 @@ The theoretical and sociotechnical framework of this implementation is built dir
 
 ---
 
-## 🤖 Project Context & Disclosures
+### 🤖 Project Context & Disclosures
 * **Development Type:** Independent self-study project conducted during vacation using open university course structures (inspired by Stanford CS 281).
 * **AI Usage Statement:** Assisted by an AI collaborator for structural planning, code debugging, boilerplate machine learning setups, and document formatting. The final experimental conclusions and sociotechnical critiques are verified and owned by the author.
-  ---
+
+---
 
 ### 📊 Experimental Results: System 1 vs. System 2
 
