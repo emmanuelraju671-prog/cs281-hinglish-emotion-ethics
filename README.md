@@ -8,6 +8,7 @@ This project bridges the gap between natural language processing (NLP) and behav
 The theoretical and sociotechnical framework of this implementation is built directly upon my philosophical thesis:
 * **Thesis Title:** *Emotions and Economic Decision Making* (Calvary Institute of Philosophy and Religion, Jan 2025).
 * **Core Argument:** Human choices are fundamentally driven by emotional cognitive lenses (such as fear and anger) rather than pure linear rationality. Therefore, an AI system capable of highly accurate "Artificial Empathy" can be weaponized to manipulate consumer behavior.
+  * [Read the Background Thesis...](EMMANUEL-1.pdf)
 
 ---
 
